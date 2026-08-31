@@ -1,0 +1,14 @@
+body{background-color: aqua;}
+h1{text-decoration: underline;
+    color: rgb(55, 3, 55);
+    font-family: 'Times New Roman', Times, serif;}
+#num{color:white;
+    background-color: black;
+    font-weight: 200;
+    font-size: x-large;}
+#potenciarAlCubo{color:black;
+                background-color: white;
+                font-weight: 200;
+                font-size: x-large;
+                border-radius: 50px;
+                }

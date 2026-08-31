@@ -1,0 +1,28 @@
+body{background-color: chartreuse;}
+h1{font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    color: chocolate;
+    text-align: center;}
+#n1{font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+    color: aqua;
+    font-size: x-large;
+    font-weight: 200;}
+#n2{font-family: Arial, Helvetica, sans-serif;
+    background-color:blueviolet;
+    color:brown;
+    font-size: x-large;
+    font-weight: 200;}
+#numMay{font-family: 'Times New Roman', Times, serif;
+        font-size: x-large;
+        font-weight: 200;
+        color: darkgoldenrod;
+        background-color: darkgreen;}
+#l1{font-weight: 400;
+      color: black;
+    font-size: x-large;
+    text-decoration: underline;}
+#l2{font-weight: 400;
+      color: black;
+    font-size: x-large;
+    text-decoration: underline;}

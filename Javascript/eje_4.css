@@ -1,0 +1,28 @@
+body{background-color: firebrick;}
+h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: steelblue ;
+    text-align: center;
+    text-decoration: underline;
+    }
+#l1,#l2{color: steelblue;
+    display: block;
+    margin: bottom 5px;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    font-weight: 100;
+    }
+#nom,#ape{text-decoration-color: navy;
+        background-color: black;
+        font-size: larger;
+        font-weight: 100;
+        font-family: fantasy;
+        text-align: center;}
+#unir{text-decoration: black;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: 100;
+    border-radius: 50px;
+    display: block;
+    margin-bottom: 5px;}
