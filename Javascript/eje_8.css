@@ -1,0 +1,29 @@
+body{background-color: rgb(10, 180, 226);}
+h1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 50px;
+    }
+#l1,#l2,#l3,#l4{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: x-large;
+        font-weight: 100;
+        text-decoration-color: rgb(0, 0, 0);
+        text-decoration: underline;
+        display: block;
+        margin: 5px;
+        }
+#P,#J,#D,#H{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    font-weight: 100;
+    background-color: white;
+    text-decoration-color: black;
+    text-align: center;
+}
+#resultados{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: x-large;
+        font-weight: 100;
+        background-color: blue;
+        text-decoration-color: black;
+        border-radius: 25px;}
